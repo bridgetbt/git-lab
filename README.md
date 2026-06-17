@@ -4,5 +4,3 @@ Git Branch
 Git Merge
 Login feature master 
 
-Git restore
-Git revert
